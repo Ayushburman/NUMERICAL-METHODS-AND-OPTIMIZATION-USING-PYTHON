@@ -1,5 +1,5 @@
 # NUMERICAL-METHODS-AND-OPTIMIZATION-USING-PYTHON
-# EXP 1
+# EXP 1  (1.1) : Review of Python Basics, Data Types, Control Structures, and Functions in Python
 ## Description
 
 ![image](https://github.com/user-attachments/assets/79c7e4c2-91b0-4ad0-9f98-88d967032049)
@@ -45,7 +45,7 @@
 ![image](https://github.com/user-attachments/assets/d763a071-68b4-4698-875b-48b416055b76)
 
 -----------------------------------------------------
-# EXP 2
+# EXP 2 (1.2) : Implementations of different Data Structures in python
 ## Description
 
 ![image](https://github.com/user-attachments/assets/ed98a0f2-30a5-4a2d-bc60-6631be511199)
@@ -60,7 +60,7 @@
 ![image](https://github.com/user-attachments/assets/a528593d-fb5c-4380-b3dd-0e844894b5f0)
 
 --------------------------------------------------------
-# EXP 3
+# EXP 3  (1.3) : Implementing Root-finding Algorithms (Bisection method, Newton-Raphson method) in Python
 ## Description
 
 ![image](https://github.com/user-attachments/assets/85a0c0e8-c94d-4d25-af3f-3c0561d0ac6f)
@@ -77,7 +77,7 @@
 ![image](https://github.com/user-attachments/assets/242fb6b0-ee4c-46e8-8550-b51ca43df29f)
 
 ---------------------------------------------------------------
-# EXP 4
+# EXP 4 (1.4) :  Implementing Secant Algorithms in Python AIM: Implementing Secant Algorithms in Python
 ## Description
 
 ![image](https://github.com/user-attachments/assets/978db41a-151b-4711-88f5-59085b379f2e)
@@ -93,7 +93,7 @@
 ![image](https://github.com/user-attachments/assets/89db5869-0015-4729-83a9-bc1802997791)
 
 ---------------------------------------------------------
-# EXP 5
+# EXP 5 (2.1) : Hands-on interpolation exercises using Python libraries 
 ## Description
 
 ![image](https://github.com/user-attachments/assets/0f682447-384a-4581-9c4f-60f39d0e5829)
@@ -108,7 +108,7 @@
 ![image](https://github.com/user-attachments/assets/836dd8c5-54ea-4ee8-96a7-ffb8641f8554)
 
 ---------------------------------------------------------
-# EXP 6
+# EXP 6 (2.2) :  implementing two common numerical integration algorithms, the trapezoidal rule and Simpson's rule
 ## Description
 
 ![image](https://github.com/user-attachments/assets/216726ad-4ebb-4690-a103-b1b088260b47)
@@ -124,7 +124,8 @@
 ![image](https://github.com/user-attachments/assets/784d0e5f-3d34-41fe-8868-5ce97607e6ba)
 
 -----------------------------------------------------
-# EXP 7
+# EXP 7 (2.3) :  Implementing numerical differentiation algorithms , hands-on experiment implementing numerical differentiation in Python.
+
 ## Description
 
 ![image](https://github.com/user-attachments/assets/f378a80e-1de1-4ef4-b4a6-96d2ed25ae29)
@@ -139,7 +140,7 @@
 ![image](https://github.com/user-attachments/assets/3b4bec82-80fe-41c6-b8a3-c1a92ebc9fbf)
 
 ------------------------------------------------------
-# EXP 8
+# EXP 8 (3.1) :  Write a program on Lagrange Multipliers in Python AIM: To implement procedures of Lagrange Multipliers in Python.
 ## Description
 
 ![image](https://github.com/user-attachments/assets/5db42b3e-97c9-4283-95f3-e7779d0d48bc)
@@ -155,7 +156,7 @@
 ![image](https://github.com/user-attachments/assets/8c94e297-fbed-4017-a6ff-e1e80589a382)
 
 ---------------------------------------------------
-# EXP 9
+# EXP 9 (3.2) : Write a program on Optimization with Equality and Inequality Constraints Using Python.
 ## Description
 
 ![image](https://github.com/user-attachments/assets/0a9e06b3-0995-4eb9-9028-9739862b8c0c)
@@ -171,7 +172,7 @@
 ![image](https://github.com/user-attachments/assets/581f0e11-dbf7-40a4-b181-0e8b58421acb)
 
 ---------------------------------------------------
-# EXP 10
+# EXP 10 (3.3) : Write a program to Optimization of a Multidimensional Function Using Particle Swarm Optimization in Python
 ## Description
 
 ![image](https://github.com/user-attachments/assets/1b24e15c-5047-4259-bd60-0d41c0cdc2e6)
