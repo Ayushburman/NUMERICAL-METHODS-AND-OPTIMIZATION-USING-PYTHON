@@ -46,7 +46,7 @@
 
 -----------------------------------------------------
 # EXP 2 (1.2) : Implementations of different Data Structures in python
-## Description
+## Descriptions 
 
 ![image](https://github.com/user-attachments/assets/ed98a0f2-30a5-4a2d-bc60-6631be511199)
 
